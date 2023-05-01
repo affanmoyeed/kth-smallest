@@ -1,0 +1,22 @@
+Script started on Wed Mar  9 15:17:50 2022
+[1m[7m%[27m[1m[0m                                                                                    [0m[27m[24m[Jaffanmoyeed@affans-MacBook-Air ~ % [K[?2004h//usr/local/bin/python3 "/Users/affanmoyeed/Deskto [Kpp/assignment 3/assignment_final.py"[?2004l
+Enter k value to find:50
+kth smallest element is  6
+Constant: time = 1.8E-05 (sec)
+[1m[7m%[27m[1m[0m                                                                                    [0m[27m[24m[Jaffanmoyeed@affans-MacBook-Air ~ % [K[?2004h//usr/local/bin/python3 "/Users/affanmoyeed/Deskto [Kpp/assignment 3/assignment_final.py"[?2004l
+Enter k value to find:500/usr/local/bin/python3 "/Users/affanmoyeed/Desktop/assignment 3/assignment_final.py"
+Traceback (most recent call last):
+  File "/Users/affanmoyeed/Desktop/assignment 3/assignment_final.py", line 64, in <module>
+    k = int(k)
+ValueError: invalid literal for int() with base 10: '500/usr/local/bin/python3 "/Users/affanmoyeed/Desktop/assignment 3/assignment_final.py"'
+[1m[7m%[27m[1m[0m                                                                                    [0m[27m[24m[Jaffanmoyeed@affans-MacBook-Air ~ % [K[?2004h//usr/local/bin/python3 "/Users/affanmoyeed/Deskto [Kpp/assignment 3/assignment_final.py"[?2004l
+Enter k value to find:500
+kth smallest element is  50
+Constant: time = 1.7E-05 (sec)
+[1m[7m%[27m[1m[0m                                                                                    [0m[27m[24m[Jaffanmoyeed@affans-MacBook-Air ~ % [K[?2004h//usr/local/bin/python3 "/Users/affanmoyeed/Deskto [Kpp/assignment 3/assignment_final.py"[?2004l
+Enter k value to find:700
+kth smallest element is  69
+Constant: time = 2.4E-05 (sec)
+[1m[7m%[27m[1m[0m                                                                                    [0m[27m[24m[Jaffanmoyeed@affans-MacBook-Air ~ % [K[?2004heexit[?2004l
+
+Script done on Wed Mar  9 15:18:32 2022
